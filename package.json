@@ -1,0 +1,34 @@
+{
+    "name": "grunt-preparser",
+    "description": "Grunt pre-parsing utilities",
+    "version": "0.1.0",
+    "license": "MIT",
+    "author": "Joel Lefkowitz",
+    "homepage": "https://github.com/JoelLefkowitz/grunt-preparser#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JoelLefkowitz/grunt-preparser.git"
+    },
+    "bugs": {
+        "url": "https://github.com/JoelLefkowitz/grunt-preparser/issues"
+    },
+    "devDependencies": {
+        "eslint": "^7.17.0",
+        "prettier": "^2.1.2"
+    },
+    "portfolio": {
+        "project_type": "Published on npm",
+        "languages": [
+            "Purescript"
+        ],
+        "frameworks": [
+            "Grunt"
+        ],
+        "paradigms": [
+            "Functional programming"
+        ],
+        "status": [
+            "In development"
+        ]
+    }
+}
