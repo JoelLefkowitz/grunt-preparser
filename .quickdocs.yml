@@ -1,0 +1,6 @@
+project: grunt-preparser
+version: 0.1.0
+author: Joel Lefkowitz
+verbose_name: Grunt preparser
+html_title: Grunt preparser
+github_url: JoelLefkowitz/grunt-preparser
