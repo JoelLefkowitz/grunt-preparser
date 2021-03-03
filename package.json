@@ -1,6 +1,6 @@
 {
   "name": "grunt-preparser",
-  "description": "Grunt pre-parsing utilities",
+  "description": "Grunt pre-parsing utilities.",
   "version": "0.1.0",
   "license": "MIT",
   "author": "Joel Lefkowitz",

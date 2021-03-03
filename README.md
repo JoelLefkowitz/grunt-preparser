@@ -1,6 +1,6 @@
 # Grunt preparser
 
-Grunt pre-parsing utilities
+Grunt pre-parsing utilities.
 
 ## Status
 
