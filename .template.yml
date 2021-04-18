@@ -1,0 +1,44 @@
+output_dir: .
+
+clear_top_level: true
+logical_grouping: true
+
+collections:
+  - common
+  - purescript
+
+loader_paths:
+  - docs
+
+render_context:
+  project:
+    project_name: grunt-preparser
+    version: 0.1.0
+
+    verbose_name: Grunt preparser
+    description: Grunt pre-parsing utilities.
+
+    repository: https://github.com/JoelLefkowitz/grunt-preparser
+    codacy_id: 6bd0468992f242c4a9a71c3f12552f37
+
+    inserts:
+      - usage.md
+
+  author:
+    author: Joel Lefkowitz
+    author_email: joellefkowitz@hotmail.com
+    author_github_handle: joellefkowitz
+
+  package:
+    is_pursuit_package: true
+    package_name: grunt-preparser
+
+  portfolio:
+    is_portfolio: true
+    status_level: 1
+
+    languages:
+      - PureScript
+
+    paradigms:
+      - Functional programming
