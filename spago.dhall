@@ -1,15 +1,14 @@
 { name = "grunt-preparser"
-, dependencies = [ 
-    "console",
-    "effect",
-    "psci-support",
-    "test-unit",
-    "node-fs-aff",
-    "node-buffer",
-    "argonaut",
-    "strings",
-    "debug"
-]
+, dependencies =
+  [ "assert"
+  , "console"
+  , "debug"
+  , "effect"
+  , "ordered-collections"
+  , "psci-support"
+  , "strings"
+  , "stringutils"
+  ]
 , packages = ./packages.dhall
-, sources = [ "src/**/*.purs", "test/**/*.purs" ]
+, sources = [ "src/**/*.purs" ]
 }
